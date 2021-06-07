@@ -27,3 +27,7 @@ DJ Mitchell, killectro@gmail.com
 ## License
 
 SnapshotTesting-Nimble is available under the MIT license. See the LICENSE file for more info.
+
+
+# NOTES
+Snapshot unit tests for this repo are currently run on an iPhone 11
